@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark">#292929</color>
+    <color name="yellowSecondary">#FDBE3B</color>
+    <color name="yellowNoteColor">#FDBE3B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="graySearchIcon">#DBDBDB</color>
+    <color name="grayTextHint">#7B7B7B</color>
+    <color name="darkQuickActionBackground">#2F2D2E</color>
+    <color name="grayIcon">#A4A4A4</color>
+    <color name="grayTextSubTitle">#CECECE</color>
+    <color name="darkDefaultNoteColor">#333333</color>
+    <color name="darkSearchBackground">#333333</color>
+    <color name="whiteNoteSubTitleText">#FAFAFA</color>
+    <color name="darkMiscellaneousBackground">#1F1F1F</color>
+    <color name="blackNoteColor">#000000</color>
+    <color name="redNoteColor">#FF4842</color>
+    <color name="redDeleteNote">#FF4842</color>
+    <color name="blueNoteColor">#3A52FC</color>
+    <color name="green">#4CAF50</color>
+
+</resources>
